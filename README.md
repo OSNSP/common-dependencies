@@ -6,9 +6,9 @@
 
 ````
 <dependency>
-    <groupId>com.yourcompany</groupId>
+    <groupId>com.optimise</groupId>
     <artifactId>common-dependencies</artifactId>
-    <version>1.0.0</version>
+    <version>2025.0.0</version>
 </dependency>
 ````
 
