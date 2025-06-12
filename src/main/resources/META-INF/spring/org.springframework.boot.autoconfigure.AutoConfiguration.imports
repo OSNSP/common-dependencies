@@ -1,0 +1,2 @@
+com.optimise.common.dependency.autoconfigure.CommonAutoConfiguration
+com.optimise.common.dependency.autoconfigure.discovery.EurekaAutoConfiguration
